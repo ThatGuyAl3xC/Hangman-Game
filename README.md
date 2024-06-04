@@ -29,6 +29,10 @@ cd hangman-game
 open index.html
 ```
 
+# Credits
+This project was inspired by (https://www.youtube.com/watch?v=hSSdc8vKP1I)
+
 # ***Enjoy the Game!***
 
-![image](https://github.com/ThatGuyAl3xC/Hangman-Game/assets/62447075/e9184f37-d5aa-4ad4-a419-be30db39ca1f)
+![image](https://github.com/ThatGuyAl3xC/Hangman-Game/assets/62447075/988087ea-120e-4092-a41b-8efd3109ba99)
+
